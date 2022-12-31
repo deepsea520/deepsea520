@@ -14,10 +14,10 @@
 </p> -->
 
 <p align="center" style="width: 100%;display:flex;">
-  <a href="https://github.com/deepsea520/deepsea520.github.io" style="margin-right: 10px;">
+  <a href="https://github.com/deepsea520/deepsea520.github.io" style="margin-right: 10px;flex: 0.5">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepsea520&repo=deepsea520.github.io&theme=" />
   </a>
-  <a href="https://github.com/deepsea520/three.js-demo">
+  <a href="https://github.com/deepsea520/three.js-demo" style="flex:0.5">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepsea520&repo=three.js-demo&theme=" />
   </a>
 </p>
