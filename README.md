@@ -4,16 +4,16 @@
   </a>
 </p>
 
-<p style="width: 100%;display:flex;">
+<!-- <p style="width: 100%;display:flex;">
   <a href="https://deepsea520.github.io" style="margin-right: 10px; border: 1px solid #dedede;border-radius:5px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepsea520&show_icons=true&include_all_commits=true&theme=&hide_border=true" alt="Anurag's github stats" />
   </a>
   <a href="https://deepsea520.github.io"style="border: 1px solid #dedede;border-radius:5px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepsea520&layout=compact&theme=&hide_border=true" />
   </a>
-</p>
+</p> -->
 
-<p style="width: 100%;display:flex;">
+<p align="center" style="width: 100%;display:flex;">
   <a href="https://github.com/deepsea520/deepsea520.github.io" style="margin-right: 10px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepsea520&repo=deepsea520.github.io&theme=" />
   </a>
